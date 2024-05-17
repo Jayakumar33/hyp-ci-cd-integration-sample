@@ -42,7 +42,7 @@ partialReports:
   frameworkName: extent
   email:
     to:
-      - johnwick190501@gmail.com
+      - jayak@lambdatest.com
 
 framework:
   name: maven/testng
