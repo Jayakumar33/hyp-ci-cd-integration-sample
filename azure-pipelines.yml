@@ -2,7 +2,8 @@ trigger:
 - main
 
 pool:
-  vmImage: 'Jaya2'  # Adjust for macOS if needed
+  name: "Jaya2"
+  # vmImage: 'Jaya2'  # Adjust for macOS if needed
 
 steps:
   - task: Bash@3
