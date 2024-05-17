@@ -2,7 +2,7 @@ trigger:
 - main
 
 pool:
-  vmImage: 'ubuntu-latest'  # Adjust for macOS if needed
+  vmImage: 'Jaya2'  # Adjust for macOS if needed
 
 steps:
   - task: Bash@3
