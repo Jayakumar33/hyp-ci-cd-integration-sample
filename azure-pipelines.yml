@@ -19,5 +19,5 @@ steps:
         
         # Run Hyperexecute with user credentials and configuration file
         name: Run Hyperexecute Tests
-        script: ./hyperexecute.exe --user jayak --key b4JOibh8UrnB8Ce2eL2VgHtc9P91eu4xCSc2IdXA7nibD30lX1 --config yaml/autosplit_win.yaml
+        script: ./hyperexecute.exe --user jayak --key b4JOibh8UrnB8Ce2eL2VgHtc9P91eu4xCSc2IdXA7nibD30lX1 --config yaml/autosplit_linux.yaml
 
